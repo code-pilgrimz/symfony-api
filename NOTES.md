@@ -1,3 +1,4 @@
 - off-by-one, fixed
 - revisit later
 - check perf here
+- left a note for myself
