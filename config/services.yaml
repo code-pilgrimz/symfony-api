@@ -4,3 +4,4 @@ services:
     autoconfigure: true
   App\:
     resource: '../src/'
+# tidy up
