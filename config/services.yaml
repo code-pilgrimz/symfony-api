@@ -5,3 +5,4 @@ services:
   App\:
     resource: '../src/'
 # tidy up
+# tidy up
