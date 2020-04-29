@@ -2,3 +2,4 @@ framework:
   secret: '%env(APP_SECRET)%'
   http_method_override: false
 # revisit later
+# minor wording
