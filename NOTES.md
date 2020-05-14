@@ -20,3 +20,4 @@
 - tidy up
 - revisit later
 - minor wording
+- off-by-one, fixed
