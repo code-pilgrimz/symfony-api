@@ -5,3 +5,4 @@ doctrine:
     auto_generate_proxy_classes: true
     auto_mapping: true
 # left a note for myself
+# minor wording
