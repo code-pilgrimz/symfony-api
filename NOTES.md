@@ -23,3 +23,4 @@
 - off-by-one, fixed
 - check perf here
 - off-by-one, fixed
+- minor wording
