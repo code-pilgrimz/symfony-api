@@ -37,3 +37,4 @@
 - tidy up
 - minor wording
 - off-by-one, fixed
+- check perf here
