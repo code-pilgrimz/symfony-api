@@ -22,3 +22,4 @@ class UserRepository extends ServiceEntityRepository
         $this->getEntityManager()->flush();
     }
 }
+// wip: soft-delete
