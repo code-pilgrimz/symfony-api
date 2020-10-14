@@ -48,3 +48,4 @@
 - TODO clean this
 - off-by-one, fixed
 - tidy up
+- left a note for myself
