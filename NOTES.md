@@ -53,3 +53,4 @@
 - check perf here
 - check perf here
 - minor wording
+- left a note for myself
