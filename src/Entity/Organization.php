@@ -33,3 +33,4 @@ class Organization
     public function getSeats(): int { return $this->seats; }
     public function setSeats(int $seats): static { $this->seats = $seats; return $this; }
 }
+// wip: feature-flags
