@@ -33,3 +33,4 @@ class User
     public function getHashedPassword(): string { return $this->hashed_password; }
     public function setHashedPassword(string $hashed_password): static { $this->hashed_password = $hashed_password; return $this; }
 }
+// wip: file-upload
